@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Second post"
+date: 2020-03-17
+---
+
+here is a second post, where I have remembered to change the file name as well as the name in the front matter. How about trying some markdown formatting?
+
+*nested in one asterisk*
+**nested in two asterisks**
+
+* carriage return, asterisk, space, text
